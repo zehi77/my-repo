@@ -68,7 +68,7 @@ def main():
         description="A simple GitHub-like repository simulator."
     )
 
-    # Show initial info
+    # Show initial inf
     repo.show_info()
 
     # Add files
