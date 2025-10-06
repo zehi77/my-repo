@@ -15,7 +15,7 @@ class Repository:
     def __init__(self, name, description, language="Python"):
         self.name = name
         self.description = description
-        self.language = languag
+        self.language = language
         self.files = []
 
     def add_file(self, filename):
