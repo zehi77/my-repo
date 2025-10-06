@@ -25,7 +25,7 @@ class Repository:
         else:
             print(f"⚠️ File '{filename}' already exists.")
 
-    def reove_file(self, filename):
+    def remove_file(self, filename):
         if filename in self.files:
             self.files.remove(filename)
             print(f"🗑 File '{filename}' removed.")
