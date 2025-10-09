@@ -4,7 +4,7 @@ GitHub Repository Simulator
 This program simulates basic operations of a GitHub repository.
 You can:
 - create a repositorY
-- add file
+- add fileS
 - remove files
 - list all files
 - update repository description
