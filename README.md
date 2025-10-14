@@ -8,7 +8,7 @@ You can:
 - remove files
 - list all files
 - update repository description
-- search for a file
+- search for a fil
 """
 
 class Repository:
