@@ -41,7 +41,7 @@ class Repository:
             print("📂 No files in this repository.")
 
     def update_description(self, new_desc):
-        self.description = new_des
+        self.description = new_desc
         print("📝 Repository description updated!")
 
     def search_file(self, filename):
