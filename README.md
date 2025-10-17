@@ -7,7 +7,7 @@ You can:
 - add fileS
 - remove files
 - list all files
-- update repository descriptione
+- update repository description
 - search for a fil
 """
 
