@@ -6,7 +6,7 @@ You can:
 - create a repository
 - add fileS
 - remove files
-- list all file
+- list all files
 - update repository descriptione
 - search for a fil
 """
