@@ -14,7 +14,7 @@ You can:
 class Repository:
     def __init__(self, name, description, language="Python"):
         self.name = name
-        self.description = descriptio
+        self.description = descripti
         self.language = language
         self.files = []
 
