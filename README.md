@@ -5,7 +5,7 @@ This program simulates basic operations of a GitHub repository.
 You can:
 - create a repository
 - add files
-- remove file
+- remove files
 - list all file
 - update repository description
 - search for a fil
