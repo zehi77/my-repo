@@ -1,5 +1,5 @@
 """
-GitHub Repository Simulator
+GitHub Repository Simulato
 ---------------------------
 This program simulates basic operations of a GitHub repository
 You can:
